@@ -2,7 +2,7 @@
 
 The project is dealing with research that conducted by Mor Mega.
 the researcher's goal is to find solutions for the industry regarding
-finding the best values of properties to prevent fractures. 
+finding the best values of properties to prevent fractures in complex materials. 
 
 ## What the project contains?
 3 python files.
